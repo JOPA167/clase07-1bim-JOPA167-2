@@ -50,3 +50,8 @@ public class Ejemplo07 {
 
     }
 }
+/*
+Si bandera cambia su valor inicial se acaba el ciclo, el contador nos sirve para
+llevar la cuenta de cuantos valores estamos ingresando y asi poder sacar el promedio
+al final
+*/
